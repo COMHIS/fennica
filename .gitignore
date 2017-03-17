@@ -7,3 +7,5 @@ inst/examples/data
 *.RData
 *.Rds
 *.Rproj
+inst/examples/output.tables/subjecttopicstypis_Frenckellianis.tab
+*.tab
